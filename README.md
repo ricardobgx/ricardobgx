@@ -2,7 +2,7 @@
 **RicardoBrasileiro/RicardoBrasileiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h3>Hello, welcome to my profile</h3>
+<h3 background="blue" color="white" border-radius=".25rem">Hello, welcome to my profile</h3>
 
 <p>From Brazil to the world, my name is Ricardo, developing and learning new things I always try to increase my knowledge and develop my skills</p>
 

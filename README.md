@@ -9,7 +9,7 @@
 - I also work with some web and mobile frameworks like ReactJS and React Native
 - I like to work with complex things
 
-<h4 color="green">Skills 🤹</h4>
+<h4>Skills 🤹</h4>
 
 - NodeJS
 - ReactJS

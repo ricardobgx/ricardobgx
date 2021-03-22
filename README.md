@@ -11,8 +11,8 @@
 
 <h4>Skills 🤹</h4>
 
-C                               NodeJS  
-Java                            ReactJS  
+C  
+Java  
 Python  
 JavaScript  
   

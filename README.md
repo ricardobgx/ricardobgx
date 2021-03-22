@@ -9,41 +9,19 @@
 - I also work with some web and mobile frameworks like ReactJS and React Native
 - I like to work with complex things
 
-<h4>Skills</h4>
-
-<strong>Back-end:</strong>
+<h4>Skills 🤹</h4>
 
 - NodeJS
-
-<strong>Front-end:</strong>
-
 - ReactJS
-
-<strong>Databases:</strong>
-
 - PostgreSQL
 - Redis
 - MongoDB
-
-<strong>Mobile</strong>
-
 - React Native
 
 <h4>Goals 🎯</h4>
 
-<strong>Back-end:</strong>
-
 - Spring Boot
-
-<strong>Front-end:</strong>
-
 - Vue.js
 - AngularJS
-
-<strong>Databases:</strong>
-
 - MySQL
-
-<strong>Mobile:</strong>
-
 - Kotlin

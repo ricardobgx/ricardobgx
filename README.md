@@ -11,17 +11,25 @@
 
 <h4>Skills 🤹</h4>
 
+- C
+- Java
+- Python
+- JavaScript
+
 - NodeJS
 - ReactJS
+- React Native
+
 - PostgreSQL
 - Redis
 - MongoDB
-- React Native
 
 <h4>Goals 🎯</h4>
+
+- Kotlin
 
 - Spring Boot
 - Vue.js
 - AngularJS
+
 - MySQL
-- Kotlin

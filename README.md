@@ -19,6 +19,7 @@ JavaScript
 NodeJS  
 ReactJS  
 React Native  
+  
 PostgreSQL  
 Redis  
 MongoDB  
@@ -26,7 +27,9 @@ MongoDB
 <h4>Goals 🎯</h4>
 
 Kotlin  
+  
 Spring Boot  
 Vue.js  
 AngularJS  
+  
 MySQL

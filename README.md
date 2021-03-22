@@ -15,19 +15,18 @@ C
 Java  
 Python  
 JavaScript  
-NodeJS
-ReactJS
-React Native
-PostgreSQL
-Redis
-MongoDB
+  
+NodeJS  
+ReactJS  
+React Native  
+PostgreSQL  
+Redis  
+MongoDB  
 
 <h4>Goals 🎯</h4>
 
-- Kotlin
-
-- Spring Boot
-- Vue.js
-- AngularJS
-
-- MySQL
+Kotlin  
+Spring Boot  
+Vue.js  
+AngularJS  
+MySQL

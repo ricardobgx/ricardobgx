@@ -11,10 +11,10 @@
 
 <h4>Skills 🤹</h4>
 
-> C
-> Java
-> Python
-> JavaScript
+C  
+Java  
+Python  
+JavaScript  
 NodeJS
 ReactJS
 React Native

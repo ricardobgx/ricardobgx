@@ -15,29 +15,17 @@
 - I like to work with complex things
 
 <h4>Skills 🤹</h4>
-  
-C  
-JavaScript  
-  
-HTML  
-CSS  
 
-ReactJS  
+| Languages  | Markup Languages | Front-end | Back-end | Databases |
+| ---------- | ---------------- | --------- | -------- | --------- |
+| C          | HTML             | ReactJS   |          |           |
+| JavaScript | CSS              |           |          |           |
   
 <h4>Goals 🎯</h4>
-  
-Java  
-Kotlin  
-  
-NodeJS  
-Spring  
-  
-Vue.js  
-AngularJS  
 
-Flutter  
-React Native  
-
-PostgreSQL  
-MySQL  
-MongoDB
+| Languages  | Markup Languages | Front-end    | Back-end | Databases  |
+| ---------- | ---------------- | ------------ | -------- | ---------- |
+| Java       |                  | Vue.JS       | NodeJS   | PostgreSQL |
+| Kotlin     |                  | Angular      | Spring   | MySQL      |
+|            |                  | Flutter      | Elixir   | MongoDB    |
+|            |                  | React Native |          |            |

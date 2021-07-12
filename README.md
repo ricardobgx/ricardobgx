@@ -10,6 +10,10 @@
 [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JosRica47671998)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jricardo_brasileiro)
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RicardoBrasileiro&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
 - I have knowledge about some programming languages, such as: C, a little bit of Java and a little bit of Python
 - I also work with some web and mobile frameworks like ReactJS and React Native
 - I like to work with complex things

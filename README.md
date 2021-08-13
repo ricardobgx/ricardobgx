@@ -6,7 +6,7 @@
 <p align="center">From Brazil to the 🌍, my name is <strong>Ricardo</strong>, developing and learning new things I always try to increase my knowledge and develop my skills</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricardobgx&&show_icons=true&title_color=0ead69&icon_color=0ead69&text_color=0ead69&bg_color=00000000&border_color=0ead69">
+  <img src="https://github-readme-stats.vercel.app/api?username=ricardobgx&&show_icons=true&title_color=a11d33&icon_color=a11d33&text_color=a11d33&bg_color=00000000&border_color=a11d33">
 </p>
 
 <h3 align="center">Social Medias</h3>

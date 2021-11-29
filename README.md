@@ -12,19 +12,16 @@
 <h3 align="center">Social Medias</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ricardobgx"><img src="https://img.shields.io/badge/linkedin-ffffff.svg?&style=for-the-badge&logo=linkedin&logoColor=0D1117"></a>
-  <a href="https://twitter.com/ricardobgx"><img src="https://img.shields.io/badge/twitter-ffffff.svg?&style=for-the-badge&logo=twitter&logoColor=0D1117"></a>
-  <a href="https://www.instagram.com/ricardobgx"><img src="https://img.shields.io/badge/instagram-ffffff.svg?&style=for-the-badge&logo=instagram&logoColor=0D1117"></a>
+  <a href="https://www.linkedin.com/in/ricardobgx"><img src="https://img.shields.io/badge/linkedin-0D1117.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/ricardobgx"><img src="https://img.shields.io/badge/twitter-0D1117.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.instagram.com/ricardobgx"><img src="https://img.shields.io/badge/instagram-0D1117.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 <h3 align="center">Skills</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0466c8?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-0466c8?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-0466c8?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/C-0466c8?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/React_Native-0466c8?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/React-0466c8?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-0466c8?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vue.js&logoColor=white">
 </p>

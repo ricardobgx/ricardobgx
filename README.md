@@ -5,6 +5,10 @@
 
 <p align="center">From Brazil to the 🌍, my name is <strong>Ricardo</strong>, developing and learning new things I always try to increase my knowledge and develop my skills</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ricardobgx&&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&border_color=FFFFFF">
+</p>
+
 <h3 align="center">Social Medias</h3>
 
 <p align="center">

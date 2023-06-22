@@ -33,7 +33,7 @@
 <h3 align="center">Mobile</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/react_native-%23149ECA.svg?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/react_native-4361ee.svg?style=for-the-badge&logo=react&logoColor=white">
 </p>
 
 <h3 align="center">Back-end</h3>

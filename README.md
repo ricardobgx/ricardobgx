@@ -50,7 +50,7 @@
 <!--   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> -->
 </p>
 
-<h3 align="center">Design</h3>
+<h3 align="center">UI/UX</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
